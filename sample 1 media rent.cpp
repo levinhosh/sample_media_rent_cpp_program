@@ -213,9 +213,9 @@ void logScreen()
 	cout<<"\t\t\t\tSYSTEM"<<endl;
 	
 	cout<<"\n\n\t\t      MULTIMEDIA RENTAL SYSTEMS"<<endl;
-	cout<<"\n\n\t\tEnter your Username: ";
+	cout<<"\n\n\t\tEnter your First name: ";
 	cin>>name3;
-	cout<<"                        ";
+	cout<<"\n";
 	cout<<"\n\n\t\tEnter your Second name: ";
 	cin>>name4;
 	system("cls");
